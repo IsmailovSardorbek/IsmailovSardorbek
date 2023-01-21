@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sardorbek</h1>
 <h3 align="center">Frontend Developer from Tashkent</h3>
 
-- 🔭 I’m currently working on **E-commerce web application**
+- 🔭 I’m currently working on **Netflix clone**
 
 - 🌱 I’m currently learning **NextJs and Redux**
 
